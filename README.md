@@ -46,7 +46,7 @@ pip install praw
 Run the script:
 
 ```bash
-python reddit_scraper.py
+python spider.py
 ```
 
 This will generate a `sotred_posts.json` file containing the scraped post data.
